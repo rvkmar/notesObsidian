@@ -56,7 +56,7 @@
   - Classified as \"Least Concern\" by IUCN Red List; population numbers are healthy but hard to estimate due to their elusive nature.
   - Low population density; one breeding pair occupies 1-4 square kilometers.
 Here's a concise summary of the aardwolf information:
-![2024-09-07T10:28:29.019Z](./images/f4f4f66c279f50965285273d6d6075b0b71b489e.jpg)
+![2024-09-07T10:28:29.019Z](f4f4f66c279f50965285273d6d6075b0b71b489e.jpg)
 ### Overview:
 - **Role in Ecosystem**: Controls termite populations.
 - **Family**: Hyena family (Hyaenidae), not actually a wolf.

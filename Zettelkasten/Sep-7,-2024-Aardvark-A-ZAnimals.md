@@ -53,7 +53,7 @@
   - Listed as \"Least Concern\" by the IUCN.  
   - Population stable in some areas, but affected by deforestation and expanding towns.
 
-![2024-09-07T10:14:55.306Z](./images/114dc20b1afbc0223027c1c332d8686d75b10fa7-683x1024.jpg)
+![2024-09-07T10:14:55.306Z](114dc20b1afbc0223027c1c332d8686d75b10fa7-683x1024.jpg)
 The aardvark, a small, pig-like mammal, is primarily found in sub-Saharan Africa. Its unique name, derived from the Afrikaans language, means \"earth pig.\" While aardvarks have some similarities to other insect-eating animals like pangolins and armadillos, recent research shows that their closest living relatives are actually elephants. The aardvark is the only remaining species in its order, **Tubulidentata**, and has evolved independently for millions of years.
 
 
