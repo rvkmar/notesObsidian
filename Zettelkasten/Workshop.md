@@ -72,4 +72,4 @@ The workshop also showcased Navneet's newly launched products, including innovat
 ---
 
 ## Conclusion
-The Navneet Workshop 2024 successfully inspired educators to transform their teaching practices, blending traditional wisdom with modern techniques. Teachers expressed appreciation for the engaging sessions and practical insights. The workshop reaffirmed the importance of making mathematics an accessible and enjoyable subject for all learners.
+The Navneet Workshop 2024 successfully inspired educators to transform their teaching practices, blending traditional wisdom with modern techniques. Teachers expressed appreciation for the engaging sessions and practical insights. The workshop reaffirmed the importance of making mathematics an accessible and enjoyable subject for all learners.  

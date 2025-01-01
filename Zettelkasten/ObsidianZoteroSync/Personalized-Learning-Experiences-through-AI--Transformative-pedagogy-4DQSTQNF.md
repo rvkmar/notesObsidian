@@ -3,7 +3,7 @@ tags: []
 parent: ""
 collections:
     - AI_summarize
-$version: 7079
+$version: 7333
 $libraryID: 1
 $itemKey: 4DQSTQNF
 Creator: Ravikumar
@@ -59,5 +59,4 @@ In conclusion, AI-driven personalized learning holds the promise of revolutioniz
 
 ## Related notes
 
-*   [AI-revolution-in-education--Transformative-pedagogy-Z6E8EE59](Zettelkasten/ObsidianZoteroSync/AI-revolution-in-education--Transformative-pedagogy-Z6E8EE59.md)
-*   <a href="./AI-revolution-in-education--Transformative-pedagogy-Z6E8EE59.md" rel="noopener noreferrer nofollow" zhref="zotero://note/u/Z6E8EE59/" ztype="znotelink" class="internal-link">AI revolution in education: Transformative pedagogy</a>
+*   [AI-revolution-in-education--Transformative-pedagogy-Z6E8EE59](AI-revolution-in-education--Transformative-pedagogy-Z6E8EE59.md)

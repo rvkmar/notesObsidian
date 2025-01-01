@@ -46,3 +46,4 @@ Here is a RACI (Responsible, Accountable, Consulted, Informed) Matrix for key ro
 
 This RACI Matrix improves clarity and minimizes conflict by clearly defining roles across tasks. It ensures accountability at the leadership level while empowering DIETs and lecturers to take ownership of operational activities.
 
+#scert  
